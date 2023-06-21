@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a simple exercise to practice the new features of Ruby on Rails 7 (Turbo Frames, Turbo Streams, Turbo Drive and Stimulus).
+It also uses Tailwind to style the app.
